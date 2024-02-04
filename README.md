@@ -1,2 +1,2 @@
 # NLP-Papers-Reviews
-NLP Course - Critical Reviews of Papers
+NLP - Critical Reviews of Papers
